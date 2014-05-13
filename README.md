@@ -9,4 +9,4 @@ Procedure to work with it:
 3)You can also update your profile .
 4)Request the available friends to write on your slam wall.
 5)you can response to your friends request.
-6)View your slam wall to know about other friends post about you.
+6)View your slam wall to know about other friend's post about you.
